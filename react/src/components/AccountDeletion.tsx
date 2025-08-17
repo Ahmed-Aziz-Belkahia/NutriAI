@@ -68,7 +68,7 @@ export default function AccountDeletion() {
           </ol>
           <p className="mt-3 text-slate-600 text-sm">
             If you cannot access your account, email
-            {' '}<a className="text-indigo-600 hover:underline" href="mailto:privacy@example.com">privacy@example.com</a>{' '}from the registered address.
+            {' '}<a className="text-indigo-600 hover:underline" href="mailto:support@nutriai.online">support@nutriai.online</a>{' '}from the registered address.
           </p>
         </section>
 
@@ -100,7 +100,7 @@ export default function AccountDeletion() {
 
         <section className={sectionClass}>
           <h2 className={headingClass}>Contact</h2>
-            <p className="text-slate-600">Questions? Email <a className="text-indigo-600 hover:underline" href="mailto:privacy@example.com">privacy@example.com</a>.</p>
+            <p className="text-slate-600">Questions? Email <a className="text-indigo-600 hover:underline" href="mailto:support@nutriai.online">support@nutriai.online</a>.</p>
         </section>
 
         <div className="mt-10">
