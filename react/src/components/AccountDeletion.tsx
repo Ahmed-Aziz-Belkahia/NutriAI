@@ -72,20 +72,6 @@ export default function AccountDeletion() {
           </p>
         </section>
 
-        <section className={sectionClass}>
-          <h2 className={headingClass}>Demo Flow Simulation</h2>
-          <p className="text-slate-600">
-            In a live app this page might include an authenticated button that kicks off an API
-            request (e.g. <code className="bg-slate-100 rounded px-1 py-0.5 text-xs">POST /api/v1/account/delete</code>). For now it's static.
-          </p>
-          <button
-            disabled
-            className="mt-4 inline-flex items-center rounded-md bg-slate-300 text-slate-600 cursor-not-allowed px-4 py-2 text-sm font-medium"
-            title="Demo only"
-          >
-            Delete My Account (Demo Disabled)
-          </button>
-        </section>
 
         <section className={sectionClass}>
           <h2 className={headingClass}>FAQ</h2>
